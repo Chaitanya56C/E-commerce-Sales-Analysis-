@@ -21,5 +21,5 @@ The goal was to understand business performance, identify profit-driving factors
 - How does sales growth compare month-to-month or year-to-year?
 - Which are the top 5 sub-categories by sales,and how can this guide inventory and marketing decisions?
 
-
+ - Dashboard < a href="https://github.com/Chaitanya56C/E-commerce-Sales-Analysis-/blob/main/Screenshot.png">View Dashboard</a>
 
