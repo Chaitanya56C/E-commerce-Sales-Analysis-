@@ -41,4 +41,3 @@ The goal was to understand business performance, identify profit-driving factors
 ## Final Conclusion:
 The analysis highlights sales trends, top products and sub-categories, and regional performance. Insights from total sales, total profit, and quantity sold can guide inventory, marketing, and revenue strategies for better business decisions.
 
-
