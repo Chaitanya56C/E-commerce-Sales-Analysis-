@@ -29,5 +29,9 @@ The goal was to understand business performance, identify profit-driving factors
 4. Created charts and dashboards in Google Sheets for visualization.
 5. Derived insights to guide inventory, marketing, and revenue strategies.
 
+## Dashboard
+<img width="1326" height="939" alt="Screenshot" src="https://github.com/user-attachments/assets/966c83f9-c763-4aa3-bb2c-cea2a02a9c0d" />
+
+
 
 
