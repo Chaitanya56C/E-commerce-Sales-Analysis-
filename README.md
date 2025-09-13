@@ -1,7 +1,6 @@
 # 📊 E-Commerce Sales Data Analysis & Dashboard
 ## 📌 Project Overview
-This project analyzes an E-commerce sales dataset (9,994 rows × 22 columns) to extract meaningful insights and design an interactive sales dashboard. The dataset includes details about orders, customers, products, regions, and shipping.
-The goal was to understand business performance, identify profit-driving factors, and highlight loss-making areas.
+This project analyzes a simulated E-commerce sales dataset (9,994 rows × 22 columns) to extract meaningful insights and design an interactive sales dashboard using Google Sheets. The dataset includes details about orders, products, categories, sub-categories, sales, quantity sold, and profit. The goal of this project was to understand overall business performance, identify top-performing products and sub-categories, analyze sales and profit trends over time, and highlight opportunities for revenue growth.
 
 ## Dataset used
 - <a href="https://github.com/Chaitanya56C/E-commerce-Sales-Analysis-/blob/main/Ecommerce%20Sales%20Analysis.ods">Dataset</a>
