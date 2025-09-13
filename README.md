@@ -33,10 +33,11 @@ The goal was to understand business performance, identify profit-driving factors
 <img width="1326" height="939" alt="Screenshot" src="https://github.com/user-attachments/assets/966c83f9-c763-4aa3-bb2c-cea2a02a9c0d" />
 
 ## Project Insights
-1.Top 5 sub-categories contribute the most to sales and revenue.
-2.Certain categories and products consistently generate high revenue.
-3.Regions/states with the highest sales highlight key markets for focus.
-4.Monthly and yearly trends reveal peak sales periods for marketing campaigns.
+
+1. Top 5 sub-categories contribute the most to sales and revenue.
+2. Certain categories and products consistently generate high revenue.
+3. Regions/states with the highest sales highlight key markets for focus.
+4. Monthly and yearly trends reveal peak sales periods for marketing campaigns.
 
 ## Final Conclusion:
 The analysis highlights sales trends, top products and sub-categories, and regional performance. Insights from total sales, total profit, and quantity sold can guide inventory, marketing, and revenue strategies for better business decisions.
