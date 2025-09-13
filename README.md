@@ -10,16 +10,24 @@ The goal was to understand business performance, identify profit-driving factors
 - 💰 Total Sales
 - 📈 Total Profit
 - 🛒 Quantity Sold
-- 🧾 Average Order Value (AOV)
-- 👥 Customer Count
 
 ## ❓ Business Questions Answered
 - What is the total sales revenue over the analyzed period?
-- Which regions are most profitable?
-- Which categories and sub-categories drive sales?
+- Which regions contribute the most to sales?
+- Which categories and sub-categories drive the most sales?
 - Which product categories generate the highest revenue?
-- How does sales growth compare month-to-month or year-to-year?
-- Which are the top 5 sub-categories by sales,and how can this guide inventory and marketing decisions?
+- How does sales growth compare vary month-to-month or year-to-year?
+- Which are the top 5 sub-categories by sales?
 
- - Dashboard <a href="https://github.com/Chaitanya56C/E-commerce-Sales-Analysis-/blob/main/Screenshot.png">View Dashboard</a>
+- Dashboard <a href="https://github.com/Chaitanya56C/E-commerce-Sales-Analysis-/blob/main/Screenshot.png">View Dashboard</a>
+
+## 🔍 Process
+
+1. Collected and cleaned simulated e-commerce sales data.
+2. Calculated KPIs: Total Sales, Total Profit, Quantity Sold.
+3. Analyzed top products, categories, sub-categories, and regional performance.
+4. Created charts and dashboards in Google Sheets for visualization.
+5. Derived insights to guide inventory, marketing, and revenue strategies.
+
+
 
